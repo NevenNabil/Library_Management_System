@@ -1,0 +1,14 @@
+
+
+
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/history.png</file>
+    <file>icon/book.png</file>
+    <file>icon/person.png</file>
+    <file>icon/report.png</file>
+    <file>icon/setting.png</file>
+    <file>icon/time.png</file>
+    <file>icon/today.png</file>
+  </qresource>
+</RCC>
